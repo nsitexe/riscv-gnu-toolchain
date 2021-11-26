@@ -8,11 +8,11 @@
 	branch = riscv-gcc-10.1-rvv-dev
 [submodule "riscv-glibc"]
 	path = riscv-glibc
-	url = ../riscv-glibc.git
+	url = ../../riscvarchive/riscv-glibc.git
 	branch = riscv-glibc-2.29
 [submodule "riscv-dejagnu"]
 	path = riscv-dejagnu
-	url = ../riscv-dejagnu.git
+	url = ../../riscv-collab/riscv-dejagnu.git
 	branch = riscv-dejagnu-1.6
 [submodule "riscv-newlib"]
 	path = riscv-newlib
