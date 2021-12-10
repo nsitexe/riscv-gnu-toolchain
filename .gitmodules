@@ -4,7 +4,7 @@
 	branch = rvv-1.0.x-zfh
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = ../riscv-gcc.git
+	url = ../../riscv/riscv-gcc.git
 	branch = riscv-gcc-10.1-rvv-dev
 [submodule "riscv-glibc"]
 	path = riscv-glibc
